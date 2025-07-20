@@ -1,3 +1,17 @@
+<h1> ## 👨‍💻 Sobre Mim </h1>
+
+🎓 Estudante de **Ciências da Computação**, com grande entusiasmo por **tecnologia**, **inovação** e **resolução de problemas reais** por meio do código.
+
+🚀 Atualmente focado em:
+- Desenvolvimento **backend com Node.js**
+- Criação de **aplicações mobile com React Native (Expo)**
+- Estudo aprofundado de **lógica de programação** e **algoritmos**, utilizando as linguagens **C**, **Java** e **Python**
+
+🛠️ Gosto de construir soluções limpas, escaláveis e que gerem impacto, com atenção à performance e boas práticas.
+
+📚 Sempre buscando aprender, evoluir e colaborar com a comunidade tech.
+
+
 <h1>📊 Estatísticas do GitHub</h1>
   <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=tiagobondo&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobondo&layout=compact&theme=tokyonight" /> </div>
 
