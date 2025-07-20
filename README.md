@@ -35,6 +35,7 @@
 <div align="center">
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Expo" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
   <img alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img alt="Mongoose" height="30" width="62" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png">
   <img alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
