@@ -4,4 +4,4 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"> </div> <br/>
 
   <h1>📊 Estatísticas do GitHub</h1>
-  <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" /> </div>
+  <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=tiagobondo&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight" /> </div>
