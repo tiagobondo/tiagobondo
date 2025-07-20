@@ -43,4 +43,8 @@
   <a href="https://facebook.com/seu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
+
+  <a href="https://tiagobondo.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%23121212?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
 </div>
