@@ -1,17 +1,43 @@
-## 👨‍💻 Sobre Mim
+<h2>👨‍💻 Sobre Mim</h2>
 
-🎓 Estudante de **Ciências da Computação**, com grande entusiasmo por **tecnologia**, **inovação** e **resolução de problemas reais** por meio do código.
+<p>
+  🎓 Estudante de <strong>Ciências da Computação</strong>, apaixonado por 
+  <strong>tecnologia</strong>, <strong>inovação</strong> e por transformar ideias em soluções reais através do código.
+</p>
 
-🚀 Atualmente focado em:
-- Desenvolvimento **backend com Node.js**
-- Criação de **aplicações mobile com React Native (Expo)**
-- Estudo aprofundado de **lógica de programação** e **algoritmos**, utilizando as linguagens **C**, **Java** e **Python**
+<p>
+  🚀 Atualmente focado em:
+</p>
 
-🛠️ Gosto de construir soluções limpas, escaláveis e que gerem impacto, com atenção à performance e boas práticas.
+<ul>
+  <li>💻 Desenvolvimento <strong>Backend com Node.js</strong> 
+    <img align="center" alt="NodeJS" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  </li>
+  <li>📱 Criação de <strong>Aplicativos Mobile com React Native (Expo)</strong> 
+    <img align="center" alt="React" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </li>
+  <li>🧩 Estudo de <strong>Algoritmos e Lógica de Programação</strong> em:
+    <img align="center" alt="C" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Java" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Python" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </li>
+</ul>
 
-📚 Sempre buscando aprender, evoluir e colaborar com a comunidade tech.
+<p>
+  🛠️ Gosto de construir projetos <strong>limpos</strong>, <strong>escaláveis</strong> 
+  e que gerem impacto, sempre com foco em <strong>performance</strong> e 
+  <strong>boas práticas</strong>.
+</p>
 
----
+<p>
+  📚 Sempre aprendendo, evoluindo e colaborando com a comunidade tech.
+</p>
+
 
 ## 📊 Estatísticas do GitHub
 
