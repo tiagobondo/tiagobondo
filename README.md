@@ -14,10 +14,20 @@
     <img align="center" alt="NodeJS" height="30" width="40"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </li>
+  <li>🌐 Desenvolvimento <strong>Web (Node.js, EJS, Express)</strong> 
+    <img align="center" alt="JavaScript" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Express" height="30" width="40"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img align="center" alt="EJS" height="30" width="40"
+         src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+  </li>
   <li>📱 Criação de <strong>Aplicativos Mobile com React Native (Expo)</strong> 
     <img align="center" alt="React" height="30" width="40"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </li>
+</ul>
+
   <li>🧩 Estudo de <strong>Algoritmos e Lógica de Programação</strong> em:
     <img align="center" alt="C" height="30" width="40"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
