@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=Eu+sou+Tiago+Bondo&center=true&width=400&height=50&color=FF7A00&vCenter=true&pause=1000"
+    alt="Typing SVG"
+  />
+</h1>
+
+
 <h2>👨‍💻 Sobre Mim</h2>
 
 <p>
