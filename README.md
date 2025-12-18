@@ -1,10 +1,9 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Eu+sou+Tiago+Bondo&center=true&width=400&height=50&color=FF7A00&vCenter=true&pause=1000"
+    src="https://readme-typing-svg.demolab.com/?lines=Eu+sou+Tiago+Bondo&center=true&width=600&height=80&size=40&color=FFA500&vCenter=true&pause=1000"
     alt="Typing SVG"
   />
 </h1>
-
 
 <h2>👨‍💻 Sobre Mim</h2>
 
@@ -18,14 +17,14 @@
 </p>
 
 <ul>
-  <li>💻 Desenvolvimento <strong>Backend com Node.js e TypeScript</strong> 
+  <li>💻 Desenvolvimento <strong>Backend com Node.js e TypeScript</strong>
     <img align="center" alt="NodeJS" height="30" width="40"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   </li>
 
-  <li>🌐 Desenvolvimento <strong>Web (Node.js, Express, EJS, TypeScript)</strong> 
+  <li>🌐 Desenvolvimento <strong>Web (Node.js, Express, EJS, TypeScript)</strong>
     <img align="center" alt="JavaScript" height="30" width="40"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="TypeScript" height="30" width="40"
@@ -36,7 +35,7 @@
          src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
   </li>
 
-  <li>📱 Criação de <strong>Aplicativos Mobile com React Native (Expo)</strong> 
+  <li>📱 Criação de <strong>Aplicativos Mobile com React Native (Expo)</strong>
     <img align="center" alt="React" height="30" width="40"
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </li>
@@ -66,8 +65,10 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center"> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tiagobondo&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobondo&layout=compact&theme=tokyonight" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=tiagobondo&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobondo&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -87,18 +88,18 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React-Native" height="30" width="40"
+  <img alt="React Native" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Expo" height="30" width="30"
        src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
   <img alt="NodeJS" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="Express" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img alt="MongoDB" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img alt="Mongoose" height="30" width="62"
-       src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png">
+  <img alt="Mongoose" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg">
   <img alt="PostgreSQL" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="MySQL" height="30" width="40"
@@ -149,19 +150,19 @@
 
 ## 🌐 Onde me encontrar
 
-<div> 
+<div align="center"> 
   <a href="mailto:tiagopedromenengabondo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  
+
   <a href="https://www.linkedin.com/in/tiago-pedro-menenga-bondo-710a2133b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
+
   <a href="https://instagram.com/tiagobondo" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  
+
   <a href="https://www.facebook.com/victor.tellurio" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-%233b5998?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
