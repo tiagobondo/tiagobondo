@@ -131,7 +131,7 @@
 
 ---
 
-## 📚 Tecnologias que estou aprendendo
+## 📚 Outras Tecnologias
 
 > Aprofundando lógica de programação e algoritmos com foco nessas linguagens:
 
